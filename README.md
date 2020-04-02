@@ -37,6 +37,6 @@ e o endereço de email para contato e criar ou remover casos.
 ## Aplicativo mobile
   <img width="30%" align="left" src="https://raw.githubusercontent.com/lcastrof/be-the-hero/master/screenshots/splashScreen.jpg">
   <img width="30%" align="left" src="https://raw.githubusercontent.com/lcastrof/be-the-hero/master/screenshots/list.jpg">
-  <img width="30%" align="left" src="https://raw.githubusercontent.com/lcastrof/be-the-hero/master/screenshots/detail.jpg">
+  <img width="30.5%" align="left" src="https://raw.githubusercontent.com/lcastrof/be-the-hero/master/screenshots/detail.jpg">
 <p align="left">Esse é o aplicativo que será utilizado pelas pessoas que estão procurando ajudar uma ONG, onde terão acesso à lista de todos
 os casos cadastrados, os detalhes de cada caso e o contato com a ONG relacionada à ele.</p>
